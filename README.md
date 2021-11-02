@@ -2,11 +2,12 @@
 #🤣## TOTAL REPO VIEWS📍
 ![Visitor Count](https://profile-counter.glitch.me/TheBlackLion17/count.svg)
 
-<img src=https://i.imgur.com/w89FHm7.jpeg>
+<img src="AK KARMA.jpg">
 
 # Hi ,<a href="Hey"><img src="https://raw.githubusercontent.com/TOXIC-DEVIL/TOXIC-DEVIL/TOXIC-DEVIL-OFFICIAL/media/Hi.gif" width="48px"></a> I'm Karnan&nbsp;
 
-![My card name](https://cardivo.vercel.app/api?name=Karnan-%20userbot&description=Hi,%20I'm%20a%20moderate%20Developer%20😎&image=https://i.imgur.com/w89FHm7.pngbackgroundColor=%23ecf0f1&github=Karnan&&pattern=leaf&colorPattern=%25eaeaea)
+
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=TheBlackLion17&label=Profile%20views&color=0e75b6&style=flat" alt="Karnan" /> </p>
 
